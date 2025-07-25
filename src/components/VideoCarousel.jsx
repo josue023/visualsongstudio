@@ -10,6 +10,7 @@ const videosMusica = [
 ];
 
 const videosCine = [
+  "https://www.youtube.com/embed/toTVbd-2psg?si=bp0w_3Zp0-dzCeYj",
   "https://www.youtube.com/embed/jJ4jH7uboAY?si=lNaSK5EaVpja8SCT",
 ];
 
